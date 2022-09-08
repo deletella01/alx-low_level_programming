@@ -1,0 +1,2 @@
+## Welcome to C Programming Language
+We shall be learning why C programming is awesome, who invented C, what happens with GNU gcc and how it compiles, what is entry point, how to print in C, how to get size of a specific type using the unary operator, what the official coding style is and how to check code with betty-style, how to find the right header to include in your source code using standard library function and how the main function operates.
