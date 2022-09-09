@@ -21,10 +21,10 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 
 	lastdigit = n % 10;
-	if ( lastdigit > 5 )
+	if (lastdigit > 5)
 	{
 		printf("Last digit of %d is %d and is greater than 5", n, lastdigit);
-	} else if ( lastdigit == 0 )
+	} else if (lastdigit == 0)
 	{
 		printf("Last digit of %d is %d and is 0", n, lastdigit);
 	} else
