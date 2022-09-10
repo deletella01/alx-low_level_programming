@@ -5,6 +5,7 @@
 *
 * This program prints a quote exactly as stated to the standard error.
 *
+* Return: 1
 */
 
 int main(void)
