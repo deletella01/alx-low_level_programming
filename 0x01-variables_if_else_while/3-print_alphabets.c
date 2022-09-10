@@ -12,9 +12,9 @@ int main(void)
 {
 	int ch;
 
-	for (ch = 'A'; ch <= 'Z'; ch++)
+	for (ch = 'a'; ch <= 'z'; ch++)
 	{
-		putchar(tolower(ch));
+		putchar(ch);
 	}
 	for (ch = 'A'; ch <= 'Z'; ch++)
 	{
