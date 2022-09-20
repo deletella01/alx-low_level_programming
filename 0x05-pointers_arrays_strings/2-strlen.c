@@ -5,7 +5,7 @@
 *
 * @s: String value
 
-* return: i
+* Return: length of string
 */
 
 int _strlen(char *s)
